@@ -120,7 +120,9 @@ int main() {
         printf("%d ", a[i]);
     }
 
-
+//    for(int i = 0; i < 11; i++) {
+//        Insert(T, a[i]);
+//    }
     printf("\n \n");
     // Cay tren bang
     int b[] = {10, 11, 54, 32, 106, 38, 78, 203, 16, 84, 17, 39, 15};
